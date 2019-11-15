@@ -9080,6 +9080,22 @@
 				"state": "Massachusetts",
 				"country": "USA"
 			}
+		},
+		{
+			"id": 571,
+			"name": "Mughees Asif",
+			"img": "",
+			"links": {
+				"website": "",
+				"linkedin": "https://www.linkedin.com/in/mughees-asif",
+				"github": "https://github.com/mughees-asif"
+			},
+			"jobTitle": "Full Stack Developer | Self-taught Java programmer",
+			"location": {
+				"city": "London",
+				"state": "",
+				"country": "United Kingdom"
+			}
 		}
 	]
 }
